@@ -1,0 +1,107 @@
+[
+  {
+    "value": "Netflix",
+    "synonyms": [
+      "Netflix"
+    ]
+  },
+  {
+    "value": "Prime Music",
+    "synonyms": [
+      "Prime",
+      " Prime Music"
+    ]
+  },
+  {
+    "value": "Zvooq",
+    "synonyms": [
+      "Zvooq"
+    ]
+  },
+  {
+    "value": "Slacker",
+    "synonyms": [
+      "slaker",
+      " slacker"
+    ]
+  },
+  {
+    "value": "iTunes",
+    "synonyms": [
+      "iTunes"
+    ]
+  },
+  {
+    "value": "Iheart",
+    "synonyms": [
+      "iheart radio",
+      " iHeartRadio",
+      " iheart"
+    ]
+  },
+  {
+    "value": "Google Music",
+    "synonyms": [
+      "Google Music",
+      "google musik"
+    ]
+  },
+  {
+    "value": "Spotify",
+    "synonyms": [
+      "Spotify"
+    ]
+  },
+  {
+    "value": "Pandora",
+    "synonyms": [
+      "pandora"
+    ]
+  },
+  {
+    "value": "Vimeo",
+    "synonyms": [
+      "vimeo"
+    ]
+  },
+  {
+    "value": "SXM",
+    "synonyms": [
+      "SXM",
+      " Sirius XM"
+    ]
+  },
+  {
+    "value": "Prime Music",
+    "synonyms": [
+      "Prime Music"
+    ]
+  },
+  {
+    "value": "Youtube",
+    "synonyms": [
+      "youtube",
+      "you tube"
+    ]
+  },
+  {
+    "value": "Apple Music",
+    "synonyms": [
+      "Apple Music"
+    ]
+  },
+  {
+    "value": "Last fm",
+    "synonyms": [
+      "lastfm",
+      " last fm",
+      " Last Fm"
+    ]
+  },
+  {
+    "value": "Deezer",
+    "synonyms": [
+      "Deezer"
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "7325c37f-02bc-4020-aa9f-cca9c44bfcd9",
+    "data": [
+      {
+        "text": "pause playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "062ba29e-42c7-4716-b325-a7083bfdb24f",
+    "data": [
+      {
+        "text": "put it on pause",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11dc612e-4bde-438c-8e1f-2a1e6e0afe39",
+    "data": [
+      {
+        "text": "pause",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39f6d5e1-1d44-4341-99a7-4f112dac3cc4",
+    "data": [
+      {
+        "text": "pause song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5527ca89-2b60-441c-926d-7564a0913e21",
+    "data": [
+      {
+        "text": "please pause",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91b7e8f6-8d2f-44df-949e-ead4aa6a4a0d",
+    "data": [
+      {
+        "text": "can you pause ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c45941f0-5dcd-46a0-beca-c7f793260b3a",
+    "data": [
+      {
+        "text": "pause this song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d94e8c17-d0ac-45c1-af78-a44908bbef93",
+    "data": [
+      {
+        "text": "pause ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

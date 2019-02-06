@@ -1,0 +1,28 @@
+{
+  "id": "09338d86-b16e-44b4-8ff2-02167de0d0b1",
+  "name": "walk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525593637,
+  "fallbackIntent": false,
+  "events": []
+}

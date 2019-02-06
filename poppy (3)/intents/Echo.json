@@ -1,0 +1,37 @@
+{
+  "id": "b2d8db51-84c0-4b3c-b9ba-024d153ba0eb",
+  "name": "Echo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "music.play",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "84ddc065-2d49-470c-8c47-497d8fcc0842",
+          "dataType": "@sys.music-artist",
+          "name": "music-artist",
+          "value": "$music-artist",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "playing calm music"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528776971,
+  "fallbackIntent": false,
+  "events": []
+}

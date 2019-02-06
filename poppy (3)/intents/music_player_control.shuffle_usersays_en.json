@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bfef6825-0867-4e48-85cb-9ae165ae76b3",
+    "data": [
+      {
+        "text": "shuffle mode on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae173f49-dc31-4356-92d6-130b6411def7",
+    "data": [
+      {
+        "text": "shuffle this playlist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e79c3427-176a-4031-b9d1-d0833bdbcea7",
+    "data": [
+      {
+        "text": "shuffle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bd13692-e9a8-4fd3-81b2-768a29103fb6",
+    "data": [
+      {
+        "text": "shuffle them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e76ae64d-6a1f-4cad-aa9d-31aa70132452",
+    "data": [
+      {
+        "text": "turn on shuffle mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

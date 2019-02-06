@@ -1,0 +1,37 @@
+{
+  "id": "562bebde-906b-41a6-84d7-90cf65e2f336",
+  "name": "maps.current_location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "maps.current_location",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6d917eed-4f5c-4397-964e-95043eadd9a8",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528777096,
+  "fallbackIntent": false,
+  "events": []
+}
