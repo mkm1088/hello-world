@@ -1,2 +1,3 @@
-# hello-world
-1st attempt
+#chatbot for poppy humanoid robot 
+#independent work module
+
